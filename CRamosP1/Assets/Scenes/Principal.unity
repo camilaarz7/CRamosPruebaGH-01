@@ -3903,6 +3903,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Escena
       objectReference: {fileID: 0}
+    - target: {fileID: 8631722855229204039, guid: d6214ed3034a53d439ea78848681266c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8781375155569582556, guid: d6214ed3034a53d439ea78848681266c, type: 3}
       propertyPath: m_InteractionManager
       value: 
